@@ -1,2 +1,4 @@
 # open-data-analysis
-Analysis and visualization of open data from Schleswig-Holstein
+
+Einige Skripte zum Analysieren und Visualisieren von Daten aus dem 
+Open-Data-Portal Schleswig-Holstein https://opendata.schleswig-holstein.de
